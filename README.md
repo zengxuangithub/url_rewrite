@@ -2,7 +2,8 @@
   可以用于实现伪静态网站
   
 ## 步骤
-1  -   下载jar包  在tuckey.com 网站 放入项目三方库中  如lib    
+1  
+   -   下载jar包  在tuckey.com 网站 放入项目三方库中  如lib    
    -    下载urlrewrite.xml   网站同上  放入WEB-INF 路径下
    
 2  在项目web.xml 中配置filter
